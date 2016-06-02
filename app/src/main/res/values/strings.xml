@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ParkappKey</string>
+    <string name="barrier_phone_number">Barrier phone number</string>
+    <string name="save">save</string>
+    <string name="test_open">test open</string>
 </resources>
